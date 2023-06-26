@@ -1,0 +1,1 @@
+{"id":"3c2d34","fileName":"my-self-assured-model-notebook.json","name":"hyperlog_log","cells":[{"id":"2ba29c","type":"markdown","content":"**Notes**\n\n* Add some notes here\n* Use markdown"},{"id":"894bac","type":"redis","content":"pfadd vegetables potato"},{"id":"1687750498214","type":"redis","content":"pfcount vegetables"}],"createdAt":"2023-06-26T03:34:08.654Z"}
